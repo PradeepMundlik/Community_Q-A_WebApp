@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'CQA.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'cqadb',
+        'NAME': 'cqa',
         'USER': 'pradeep',
         'PASSWORD': '191283',
         'HOST': 'localhost',
